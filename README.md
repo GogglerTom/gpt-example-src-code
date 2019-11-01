@@ -1,5 +1,4 @@
-# gpt-example-src-code
-An Example of GPT
+# An Example of GPT
 
 ### utils/ad-utils.js
 This file contains the integration code that communicates with GPT.
