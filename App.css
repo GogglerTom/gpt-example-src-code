@@ -1,0 +1,28 @@
+article {
+  width: 75%;
+  float: left;
+  padding: 12px 0;
+}
+
+aside {
+  width: 25%;
+  float: right;
+}
+
+button {
+  background: blue;
+  border-radius: 4px;
+  color: #fff;
+  padding: 12px 24px;
+  font-size: 15px;
+}
+
+#gpt-728x90-ad, #gpt-300x250-ad {
+  background: #eee;
+  padding: 12px 0;
+  margin: 12px 0;
+}
+
+#gpt-728x90-ad {
+  margin-top: 0;
+}
